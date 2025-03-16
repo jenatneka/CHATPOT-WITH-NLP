@@ -11,3 +11,5 @@ DOMAIN : PYTHON PROGRAMMING
 DURATION : 4 WEEKS
 
 MENTOR : NEELA SANTHOSH
+
+DISCRIPTION : I have build this AI chatbot with an NLP program using help from AI, Google, and many websites.
